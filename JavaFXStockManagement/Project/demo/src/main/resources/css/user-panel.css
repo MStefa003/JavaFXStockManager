@@ -1,0 +1,88 @@
+/* General layout styling */
+.user-panel {
+    -fx-background-color: #f0f2f5;
+    -fx-padding: 0;
+    -fx-spacing: 0;
+    -fx-fill-height: true; /* Ensure the panel fills the height */
+}
+
+/* Styling for the Sidebar */
+.sidebar {
+    -fx-background-color: #2c3e50;
+    -fx-pref-width: 200px;
+    -fx-padding: 20px;
+    -fx-alignment: top-left;
+    -fx-spacing: 20px;
+}
+
+/* Styling for the Sidebar Buttons */
+.sidebar .button {
+    -fx-background-color: #3498db;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-padding: 10px 20px;
+    -fx-border-radius: 5px;
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.3), 10, 0, 0, 5);
+}
+
+.sidebar .logout-button {
+    -fx-background-color: #e74c3c;
+}
+
+.sidebar .button:hover {
+    -fx-background-color: #2980b9;
+}
+
+.sidebar .logout-button:hover {
+    -fx-background-color: #c0392b;
+}
+
+/* Styling for the main content area */
+.main-content {
+    -fx-background-color: #ffffff;
+    -fx-padding: 20px;
+    -fx-alignment: top-left;
+    -fx-spacing: 20px;
+    -fx-pref-width: 600px; /* Set a fixed width for better layout */
+    -fx-fill-height: true; /* Ensure the main content fills the height */
+}
+
+/* Styling for the ListView */
+.list-view {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #dddddd;
+    -fx-border-width: 1px;
+    -fx-padding: 10px;
+    -fx-font-size: 14px;
+}
+
+/* Styling for the TextField */
+.text-field {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #dddddd;
+    -fx-border-width: 1px;
+    -fx-padding: 10px;
+    -fx-font-size: 14px;
+}
+
+/* Alert dialog styling */
+.dialog-pane {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #dddddd;
+    -fx-border-width: 1px;
+}
+
+.alert-header {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+}
+
+.alert-content {
+    -fx-font-size: 14px;
+}
+
+/* Scene background color */
+.scene {
+    -fx-background-color: #ecf0f1;
+}

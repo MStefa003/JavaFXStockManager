@@ -1,0 +1,5 @@
+com\example\UserPanel.class
+module-info.class
+com\example\DatabaseConnector.class
+com\example\App.class
+com\example\AdminPanel.class

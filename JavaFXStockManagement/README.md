@@ -20,10 +20,11 @@ JavaFXStockManager is designed for stock management and includes user registrati
 ## Setup Instructions
 
 ### Prerequisites
-- JDK 11 or higher
-- Maven (if using a Maven build)
-- JavaFX SDK
-- SQLite
+- **JDK 11 or higher**
+- **Maven** (if using a Maven build)
+- **JavaFX SDK**
+- **SQLite**
+- **XAMPP**
 
 ### Cloning the Repository
 ```bash

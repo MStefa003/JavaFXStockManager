@@ -1,7 +1,7 @@
 # JavaFXStockManager
 
 ## Overview
-JavaFXStockManager is designed for stock management and includes user registration, login functionalities, and an administrative panel for managing stock items. It was developed as part of an assignment for my Univercity [Metropolitan college].
+JavaFXStockManager is designed for stock management and includes user registration, login functionalities, and an administrative panel for managing stock items. It was developed as part of an assignment for my University [Metropolitan college].
 
 ## Features
 - **User-friendly Interface:** Intuitive navigation and user experience.

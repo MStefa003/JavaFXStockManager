@@ -10,28 +10,12 @@ JavaFXStockManager is designed for stock management and includes user registrati
 - Administrative panel for managing stock items
 - Database management
 
-## Prerequisites
+### Technologies Used
 
-Make sure you have the following software installed:
-
-- [XAMPP](https://www.apachefriends.org/index.html)
-- Java Development Kit (JDK)
-- [JavaFX](https://openjfx.io/)
-
-### Setting Up XAMPP
-
-1. **Download and Install XAMPP:**
-   - Go to the [XAMPP website](https://www.apachefriends.org/index.html) and download the appropriate version for your operating system.
-   - Install XAMPP by following the installation instructions.
-
-2. **Start Apache and MySQL:**
-   - Open the XAMPP Control Panel.
-   - Start the Apache and MySQL modules.
-
-3. **Import the Database:**
-   - Open phpMyAdmin by going to `http://localhost/phpmyadmin/` in your web browser.
-   - Create a new database named `your_database_name`.
-   - Import the `javafx_db.sql` file located in the root directory of this project into the newly created database.
+- **Java**: The core programming language for the application.
+- **JavaFX**: For building the graphical user interface.
+- **MySQL**: The database management system.
+- **XAMPP**: To manage the Apache server and MySQL database locally.
 
 ### Downloading the Project
 

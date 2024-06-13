@@ -27,4 +27,4 @@ JavaFXStockManager is designed for stock management and includes user registrati
 
 ### Cloning the Repository
 ```bash
-git clone https://github.com/yourusername/JavaFXStockManager.git
+git clone https://github.com/MStefa003/JavaFXStockManager.git
